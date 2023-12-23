@@ -1,0 +1,20 @@
+{
+  "name": "live-reviews-app",
+  "version": "1.0.0",
+  "description": "root file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihir Shah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.2"
+  }
+}
